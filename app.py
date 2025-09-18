@@ -1,1 +1,1 @@
-print("Hello Jenkins from Git-webhook 1!")
+print("Hello Jenkins from Git-webhook 2!")
